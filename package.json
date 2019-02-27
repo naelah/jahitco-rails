@@ -1,0 +1,7 @@
+{
+  "name": "jahitco-rails",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
